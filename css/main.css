@@ -385,7 +385,7 @@ a {
     color: #c0c5c9;
 }
 
-.ceo-name p {
+p.ceo-name {
     font-weight: 700;
     color: #000;
 }
@@ -668,7 +668,7 @@ a {
         color: #c0c5c9;
     }
 
-    .ceo-name p {
+    p.ceo-name {
         font-weight: 700;
         color: #000;
     }
